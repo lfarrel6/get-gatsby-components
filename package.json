@@ -1,0 +1,18 @@
+{
+  "name": "get-gatsby-components",
+  "version": "1.0.0",
+  "description": "Copy all of the gatsby theme components that you can shadow",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "gatsby",
+    "cli",
+    "node"
+  ],
+  "author": "Liam Farrelly <lfarrel6@tcd.ie> (lfarrel6.github.io)",
+  "license": "MIT"
+}
